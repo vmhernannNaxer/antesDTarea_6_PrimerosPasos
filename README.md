@@ -17,3 +17,7 @@ YA NO NECESITO MANTENER EL NAVEGADOR DE INCOGNITO.
   DE VNHERNANN110177 Y HAGO CAMBIO. 
 6. EL ASUNTO ES QUE APARENTEMENTE YA NO NECESITO ABRIR LA CUENTA VMHERNANNNAXER DESDE  UNA NUEVA VENTANA DE INGOGNITO
 nO LO SÉ , ABRA QUE VERLO CON EL TIEMPO Y LA EXPERIENCIA.
+
+
+Bueno pro lo pronto CLONÉ y ya estoy haciendo esta modificación en local-work.
+Agregaré un archivo más y revisaré estos cambio en ambos browser "normal" para el clonado y para el original.

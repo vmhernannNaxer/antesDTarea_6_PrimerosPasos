@@ -19,5 +19,5 @@ YA NO NECESITO MANTENER EL NAVEGADOR DE INCOGNITO.
 nO LO SÉ , ABRA QUE VERLO CON EL TIEMPO Y LA EXPERIENCIA.
 
 
-Bueno pro lo pronto CLONÉ y ya estoy haciendo esta modificación en local-work.
+Bueno por lo pronto CLONÉ y ya estoy haciendo esta modificación en local-work.
 Agregaré un archivo más y revisaré estos cambio en ambos browser "normal" para el clonado y para el original.
